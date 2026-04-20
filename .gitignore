@@ -1,0 +1,7 @@
+preproduction/downloads/
+preproduction/archives/
+preproduction/asset_library/
+
+# Python
+__pycache__/
+*.pyc
