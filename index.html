@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>METAXY Web Prototype</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        background: #0f1220;
+        color: #e8ecff;
+        font-family: 'Trebuchet MS', sans-serif;
+      }
+
+      #app {
+        min-height: 100%;
+        display: grid;
+        place-items: center;
+      }
+
+      canvas {
+        image-rendering: pixelated;
+        image-rendering: crisp-edges;
+        border: 2px solid #63739f;
+        box-shadow: 0 10px 40px rgb(0 0 0 / 50%);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
