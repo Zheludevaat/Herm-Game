@@ -1,1 +1,0 @@
-"""METAXY production bootstrap package."""
