@@ -1,0 +1,9 @@
+{
+  "player": {"x": 9, "y": 11},
+  "soul": {
+    "clarity": 2,
+    "memory_shards": 1,
+    "moon_completed": false,
+    "calling": "Scholar"
+  }
+}

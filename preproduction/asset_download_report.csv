@@ -1,0 +1,6 @@
+name,category,source_url,license,downloaded,archive_bytes,archive_sha256,extracted_file_count,verified_utc
+LPC_Original,sprites_tiles,https://codeload.github.com/OpenGameArt/LiberatedPixelCup/zip/refs/heads/master,CC-BY-SA-3.0,yes,51443122,532e2e1086c5a39804de141870a7970290d8cc00d1f2923dda78ee767e0b5aff,8386,2026-04-19T13:36:54.385466+00:00
+LPC_Revised,sprites_tiles,https://codeload.github.com/ElizaWy/LPC/zip/refs/heads/main,CC-BY-3.0/OGA-BY,yes,307567038,132bbf6191e281d3eedc4e0259b2e8ca403a3067ea377269b837aa4aad4a20f4,64365,2026-04-19T13:36:54.385466+00:00
+Godot_Demo_Projects,reference_projects,https://codeload.github.com/godotengine/godot-demo-projects/zip/refs/heads/master,MIT,yes,248480317,02d4a790edefd1645e497eb82ac7340594a8b6ae06c109920906e7f9de85fa07,3880,2026-04-19T13:36:54.385466+00:00
+Universal_LPC_Spritesheet_Generator,tools,https://codeload.github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator/zip/refs/heads/master,MIT,yes,554574781,349e592c3d66c4fc413760bad82a8c340b2c896ae81a96c2caa8e2cb86e7c08a,24898,2026-04-19T13:36:54.385466+00:00
+LPC_Generator_Node,tools,https://codeload.github.com/tylerlong/liberated-pixel-cup/zip/refs/heads/master,CC-BY-SA-3.0,yes,2254229,9bc6f518b78efb26ec459e03baaf2310968ecb486cb0764799e03f8169654874,3759,2026-04-19T13:36:54.385466+00:00

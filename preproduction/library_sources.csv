@@ -1,0 +1,6 @@
+name,category,license,source_url,extract_subdir
+LPC_Original,sprites_tiles,CC-BY-SA-3.0,https://codeload.github.com/OpenGameArt/LiberatedPixelCup/zip/refs/heads/master,lpc_original
+LPC_Revised,sprites_tiles,CC-BY-3.0/OGA-BY,https://codeload.github.com/ElizaWy/LPC/zip/refs/heads/main,lpc_revised
+Godot_Demo_Projects,reference_projects,MIT,https://codeload.github.com/godotengine/godot-demo-projects/zip/refs/heads/master,godot_demo_projects
+Universal_LPC_Spritesheet_Generator,tools,MIT,https://codeload.github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator/zip/refs/heads/master,lpc_generator
+LPC_Generator_Node,tools,CC-BY-SA-3.0,https://codeload.github.com/tylerlong/liberated-pixel-cup/zip/refs/heads/master,lpc_generator_node
